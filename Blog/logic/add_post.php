@@ -3,8 +3,6 @@ require_once 'db.php';
 
 $post_title = getNakedInput($_POST['newPost__title']);
 $post_text = getNakedInput($_POST['newPost__text']);
-$post_title = $_POST['newPost__title'];
-$post_text = $_POST['newPost__text'];
 
 if ( empty($post_title) || empty($post_text)){
 	die('Заполните все поля');
