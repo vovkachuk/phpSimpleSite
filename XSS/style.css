@@ -1,0 +1,85 @@
+
+body{
+    background: url(back.jpg);
+}
+.hello{
+    margin-left:34%;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 200px;
+    background: rgb(106, 106, 212);
+    background: url(grad.jpg);
+}
+
+a{
+    color: #ffffff;
+    margin-right: 150px;
+    text-decoration: none;
+}
+nav{
+    padding: 10px;
+    border-radius: 5px;
+    background: #39ada4;
+}
+a:hover{
+    border-radius: 5px;
+   background: #40d8d8;
+   padding-top: 10px;
+    padding-bottom: 10px;
+   color: #445351;
+}
+
+.post_container{
+    margin-left: 15%;
+    padding-left: 10px;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+   
+   width: 400px;
+    background: #3e6184
+}
+.blog{
+    margin-left: 40px;
+    
+   
+    
+}
+h3{
+    color:rgb(181, 185, 188)
+}
+form{
+    background: url(grad.jpg);
+    width: 300px;
+    padding: 10px;
+    margin-top: 250px;
+    text-align: center;
+    margin-left: 37%;
+    border-radius: 10px;
+    
+}
+label{
+    padding-right: 20px;
+}
+input{
+    text-align:;
+    margin-top: 10px;
+}
+button{
+    color: azure;
+    padding: 10px;
+    margin-top: 10px;
+    background: #197f83;
+    border-radius: 5px;
+}
+button:hover{
+    background: #7fd3d6;
+    color:#254c5d;
+    text-shadow:#365aaa 2px 1px 1px; 
+}
+h1{
+    color:#22679a;
+}
+
+<!-- create by deuch Sergey-->
